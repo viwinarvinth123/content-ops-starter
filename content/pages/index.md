@@ -132,7 +132,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/pngegg.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
