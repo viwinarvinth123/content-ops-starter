@@ -122,7 +122,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-      - title: 20x
+      - title: INSTAGRAM
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
