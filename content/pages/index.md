@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: “Transforming Raw Footage into Cinematic Stories.”
+      text: “Transforming Raw Footage into Cinematic Stories”
       color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
