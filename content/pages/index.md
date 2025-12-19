@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/computer-5903052.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
