@@ -70,8 +70,8 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: YOUTUBE
-        subtitle: Numbers Done
+        title: 500k
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
