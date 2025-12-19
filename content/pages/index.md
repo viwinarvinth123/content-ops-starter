@@ -61,7 +61,7 @@ sections:
       url: /images/computer-5903052.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: OUR SERVICES
       color: text-dark
       styles:
         self:
