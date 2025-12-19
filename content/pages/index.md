@@ -99,7 +99,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 200%
+      - title: FILMS
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
