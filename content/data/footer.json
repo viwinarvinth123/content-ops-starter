@@ -80,7 +80,7 @@
         },
         {
             "altText": "Email link",
-            "url": "\\contact@wrapupstudios.com",
+            "url": "\\mailto:your-email@example.com",
             "icon": "mail",
             "type": "Social"
         }
